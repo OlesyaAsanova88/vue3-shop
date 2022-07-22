@@ -1,4 +1,4 @@
-# vue-202207-final
+# vue-shop
 
 ## Project setup
 ```
